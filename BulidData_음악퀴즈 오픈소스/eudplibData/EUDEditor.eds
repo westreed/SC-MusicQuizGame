@@ -1,6 +1,6 @@
 [main]
 input: ..\..\음악퀴즈 맵파일.scx
-output: E:\StarCraft\Maps\음악맞추기\음악퀴즈 오픈소스_.scx
+output: ..\..\음악퀴즈 오픈소스_.scx
 [DataEditor.py]
 [ExtraDataEditor.py]
 [dataDumper]

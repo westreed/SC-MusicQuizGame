@@ -1,7 +1,9 @@
-﻿from eudplib import *
+﻿import WireFrameDataEditor
+from eudplib import *
 
 
 def onPluginStart():
+    WireFrameDataEditor.WireFrameInit()
     DoActions([ # 스테이터스인포메이션
     ])
     # 버튼셋
